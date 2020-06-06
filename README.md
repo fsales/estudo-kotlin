@@ -10,7 +10,20 @@ Estudo baseado no canal do [Dougals Motta](https://www.youtube.com/playlist?list
       return if (a > b) a else b
   }
 
-  // simplificando a função (corpo de expressão)
-  fun maxSimplificada(a: Int, b: Int) = if (a > b) a else b
-
 ```
+
+````
+   // simplificando a função (corpo de expressão)
+  fun maxSimplificada(a: Int, b: Int) = if (a > b) a else b
+```
+
+string template
+````
+    val nome: String  = "Casa"
+
+    println("Hello $nome!")
+
+    // string templete expressão
+    println("Soma é: ${soma(1 , 2)} ")
+```
+
