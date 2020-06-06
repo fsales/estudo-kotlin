@@ -25,5 +25,7 @@ string template
 
     // string templete expressão
     println("Soma é: ${soma(1 , 2)} ")
+
+    fun soma(a:Int, b: Int) = a +b
 ```
 
