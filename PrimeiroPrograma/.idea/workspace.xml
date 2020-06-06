@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72326868-0bb7-4c48-af8f-719aab3f65b2" name="Default Changelist" comment="" />
+    <list default="true" id="72326868-0bb7-4c48-af8f-719aab3f65b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -52,7 +55,20 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.RetanguloKt">
+    <configuration name="PessoaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="PrimeiroPrograma" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PessoaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeiroCodigoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="PrimeiroPrograma" />
       <option name="VM_PARAMETERS" />
@@ -66,8 +82,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RetanguloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="PrimeiroPrograma" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RetanguloKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RetanguloKt" />
+        <item itemvalue="Kotlin.PessoaKt" />
         <item itemvalue="Kotlin.PrimeiroCodigoKt" />
       </list>
     </recent_temporary>
@@ -79,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591460721471</updated>
-      <workItem from="1591460743982" duration="2322000" />
+      <workItem from="1591460743982" duration="3120000" />
     </task>
     <servers />
   </component>
@@ -98,22 +129,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1067" height="250" key="GridCell.Tab.0.bottom" timestamp="1591482431106">
+    <state width="1067" height="250" key="GridCell.Tab.0.bottom" timestamp="1591483429497">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1067" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1591482431106" />
-    <state width="1067" height="250" key="GridCell.Tab.0.center" timestamp="1591482431103">
+    <state width="1067" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1591483429497" />
+    <state width="1067" height="250" key="GridCell.Tab.0.center" timestamp="1591483429497">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1067" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1591482431103" />
-    <state width="1067" height="250" key="GridCell.Tab.0.left" timestamp="1591482431101">
+    <state width="1067" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1591483429497" />
+    <state width="1067" height="250" key="GridCell.Tab.0.left" timestamp="1591483429496">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1067" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1591482431101" />
-    <state width="1067" height="250" key="GridCell.Tab.0.right" timestamp="1591482431104">
+    <state width="1067" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1591483429496" />
+    <state width="1067" height="250" key="GridCell.Tab.0.right" timestamp="1591483429497">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1067" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1591482431104" />
+    <state width="1067" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1591483429497" />
     <state width="1162" height="310" key="GridCell.Tab.1.bottom" timestamp="1591461075273">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -134,5 +165,9 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="798" y="130" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1591461067230" />
+    <state x="1001" y="228" width="670" height="676" key="search.everywhere.popup" timestamp="1591483007181">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="1001" y="228" width="670" height="676" key="search.everywhere.popup/0.23.1920.977@0.23.1920.977" timestamp="1591483007181" />
   </component>
 </project>
