@@ -18,4 +18,5 @@ fun obterTemperatura(cor: Cor) : String{
 
 fun main() {
     println(obterMnemonica(Cor.LARANJA))
+    println(obterTemperatura(Cor.AZUL))
 }
