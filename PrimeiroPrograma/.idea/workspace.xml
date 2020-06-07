@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72326868-0bb7-4c48-af8f-719aab3f65b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exceptions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/idades.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FizzBuzz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBuzz.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,15 +60,15 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
-  <component name="RunManager" selected="Kotlin.FizzBuzzKt">
-    <configuration name="EnumsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.ExceptionsKt">
+    <configuration name="ExceptionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="PrimeiroPrograma" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="EnumsKt" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="PrimeiroPrograma" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="InOperatorKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SmartCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="PrimeiroPrograma" />
       <option name="VM_PARAMETERS" />
@@ -93,19 +108,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="SmartCastKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="PrimeiroPrograma" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExceptionsKt" />
+        <item itemvalue="Kotlin.InOperatorKt" />
         <item itemvalue="Kotlin.FizzBuzzKt" />
         <item itemvalue="Kotlin.WhileKt" />
         <item itemvalue="Kotlin.SmartCastKt" />
-        <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.EnumsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591460721471</updated>
-      <workItem from="1591460743982" duration="6875000" />
+      <workItem from="1591460743982" duration="7735000" />
     </task>
     <servers />
   </component>
@@ -164,22 +166,22 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="1123" y="174" key="#FizzBuzzKt/0.23.1920.977@0.23.1920.977" timestamp="1591487281314" />
-    <state width="906" height="250" key="GridCell.Tab.0.bottom" timestamp="1591487275804">
+    <state width="906" height="250" key="GridCell.Tab.0.bottom" timestamp="1591488062412">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="906" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1591487275804" />
-    <state width="906" height="250" key="GridCell.Tab.0.center" timestamp="1591487275796">
+    <state width="906" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1591488062412" />
+    <state width="906" height="250" key="GridCell.Tab.0.center" timestamp="1591488062411">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="906" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1591487275796" />
-    <state width="906" height="250" key="GridCell.Tab.0.left" timestamp="1591487275790">
+    <state width="906" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1591488062411" />
+    <state width="906" height="250" key="GridCell.Tab.0.left" timestamp="1591488062411">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="906" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1591487275790" />
-    <state width="906" height="250" key="GridCell.Tab.0.right" timestamp="1591487275798">
+    <state width="906" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1591488062411" />
+    <state width="906" height="250" key="GridCell.Tab.0.right" timestamp="1591488062412">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="906" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1591487275798" />
+    <state width="906" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1591488062412" />
     <state width="1162" height="310" key="GridCell.Tab.1.bottom" timestamp="1591461075273">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -200,6 +202,10 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="798" y="130" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1591461067230" />
+    <state x="1302" y="343" key="cloudConfig.SelfSettingsDialog" timestamp="1591487638131">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="1302" y="343" key="cloudConfig.SelfSettingsDialog/0.23.1920.977@0.23.1920.977" timestamp="1591487638131" />
     <state x="1220" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591485046865">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
